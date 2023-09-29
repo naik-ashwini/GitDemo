@@ -4,5 +4,6 @@ class HelloWorld
 	{
 		System.out.println("Hi Java Developers !!");
 		System.out.println("Welcome to Git!!");
+                System.out.println("Clone Program");
 	}
 }
